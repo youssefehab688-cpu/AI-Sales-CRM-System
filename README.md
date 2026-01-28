@@ -1,3 +1,5 @@
+![1000037805](https://github.com/user-attachments/assets/602a56ac-0e32-4896-83ad-1976fdce012e)
+![1000037804](https://github.com/user-attachments/assets/a974a0cb-9a4c-45c4-99fa-90bf4fa03e22)
 # 🚀 AI Smart CRM & Lead Qualifier
 
 A fully automated **Sales Funnel** that captures leads, analyzes their intent using **Google Gemini AI**, and routes them to the correct follow-up sequence instantly.
