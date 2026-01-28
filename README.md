@@ -48,12 +48,10 @@ graph TD;
   ## 📸 Screenshots
 
 ### 1. The Logic (Make.com Scenario)
-*(Place your Make scenario screenshot here)*
 ![Make Scenario](https://github.com/user-attachments/assets/602a56ac-0e32-4896-83ad-1976fdce012e)
 
 
 ### 2. The Database (Airtable)
-*(Place your Airtable grid view screenshot here)*
 ![Airtable View](https://github.com/user-attachments/assets/a974a0cb-9a4c-45c4-99fa-90bf4fa03e22)
 
 
