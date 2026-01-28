@@ -31,8 +31,7 @@ This system bridges the gap between Lead Capture and Sales Action. It replaces m
 - **Database:** Airtable
 - **Frontend:** Tally.so
 - **Communication:** Gmail / SMTP
-
-## ⚙️ How It Works (The Logic)
+- ## ⚙️ How It Works (The Logic)
 
 ```mermaid
 graph TD;
@@ -45,3 +44,29 @@ graph TD;
     F --> G{Router};
     G -->|If Hot| H[Send VIP Offer Email];
     G -->|If Cold| I[Send 'Thank You' Email];
+```
+  ## 📸 Screenshots
+
+### 1. The Logic (Make.com Scenario)
+*(Place your Make scenario screenshot here)*
+![Make Scenario](make_screenshot.jpg)
+
+### 2. The Database (Airtable)
+*(Place your Airtable grid view screenshot here)*
+![Airtable View](airtable_screenshot.jpg)
+
+---
+
+## 🔧 Installation / Setup
+
+1.  **Clone the Repo:** Download the Blueprint JSON file above.
+2.  **Import to Make:** Create a new scenario and import the blueprint.
+3.  **Setup Accounts:**
+    - Connect your **Airtable** API Key.
+    - Connect **Google Gemini** API Key.
+    - Connect **Gmail**.
+4.  **Configure Tally:** Set up the webhook to point to your Make scenario.
+5.  **Run:** Turn it on and watch the leads flow!
+
+---
+*Built with ❤️ by [YoussfEhab] - Automating the world, one task at a time.*
